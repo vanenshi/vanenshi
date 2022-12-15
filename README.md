@@ -1,7 +1,7 @@
-Hi 👋 My name is Amir Hossein Shekari
+Hi 👋 My name is Amir (Hossein Shekari)
 =====================================
 
-Full Stack Developer
+A Full Stack Developer
 --------------------
 
 I have been working with react and react native for more than 3 years. right now I am mostly focusing on the backend and advancing my typescript knowledge

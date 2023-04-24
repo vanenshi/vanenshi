@@ -6,7 +6,6 @@ A Full Stack Developer
 
 I have been working with react and dotnet ecosystem for more than 3 years. right now I am mostly focusing on the backend and advancing my C# knowledge
 
-* 🌍  I'm based in Iran
 * 🖥️  See my portfolio at [here](http://vanenshi.com)
 * ✉️  You can contact me at [vanenshi@gmail.com](mailto:vanenshi@gmail.com)
 * 🚀  I'm currently working on [Roombadi](http://roombadi.com)

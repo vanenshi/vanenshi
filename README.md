@@ -1,4 +1,4 @@
-Hi 👋 My name is Amir (Hossein Shekari)
+Hi 👋 My name is Amir
 =====================================
 
 A Full Stack Developer

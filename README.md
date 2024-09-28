@@ -8,9 +8,7 @@ I have been working with react and dotnet ecosystem for more than 3 years. right
 
 * 🖥️  See my portfolio at [here](http://vanenshi.com)
 * ✉️  You can contact me at [vanenshi@gmail.com](mailto:vanenshi@gmail.com)
-* 🚀  I'm currently working on [Roombadi](http://roombadi.com)
-* 🧠  I'm learning Microservices Architecture
-* 🤝  I'm open to collaborating on anything interesting
+* 🚀  I'm currently working on [Synaps](https://synapsai.ai/en)
 
 ### Skills
 

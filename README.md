@@ -1,39 +1,64 @@
-Hi 👋 My name is Amir
-=====================================
+# Hi 👋, I'm Amir Hossein Shekari (Amir)
 
-A Full Stack Developer
---------------------
+### Full Stack Engineer building scalable systems & AI-powered products
 
-I have been working with react and dotnet ecosystem for more than 5 years. right now I am mostly focusing on the backend and advancing my C# knowledge
+I build production systems that scale — from first version to real-world usage.  
+Working across web, mobile, backend, and increasingly **AI-driven applications**.
 
-* 🖥️  See my portfolio at [here](http://vanenshi.com)
-* ✉️  You can contact me at [vanenshi@gmail.com](mailto:vanenshi@gmail.com)
-* 🚀  I'm currently working on [Synaps](https://synapsai.ai/en)
+---
 
-### Skills
+### 🚀 Current Work
+
+- 🔭 Building **https://synapsai.ai/**  
+  → A **Turkey-based AI platform** for automating interviews and HR processes  
+  (LLM-powered evaluations, workflows, and analytics)
+
+---
+
+### ⚡ What I Do
+
+- End-to-end product development (frontend → backend → cloud)
+- Scalable system design & clean architecture
+- Developer experience, automation, and reliability
+- Applying AI in real products (not just prototypes)
+
+---
+
+### 🛠 Skills & Technologies
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+  <img src="https://skillicons.dev/icons?i=aws,cs,docker,dotnet,elasticsearch,git,grafana,linux,nodejs,postgres,react,redis,redux,tailwind,ts" />
 </p>
 
+**Languages:**  
+TypeScript, JavaScript, C#
 
-### Socials
+**Frontend & Mobile:**  
+React, React Native, Next.js
 
-<p align="left"> <a href="https://www.dev.to/vanenshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/vanenshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vanenshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/8801767/vanenshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/vanenshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+**Backend & Data:**  
+Node.js, PostgreSQL, Redis, Elasticsearch
 
-### Badges
+**Cloud & DevOps:**  
+AWS, Docker, CI/CD
 
-<b>My GitHub Stats</b>
+**Currently focused on:**  
+AI/LLM systems, product integration
 
-<a href="http://www.github.com/vanenshi"><img align="left" src="https://github-readme-stats.vercel.app/api?username=vanenshi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vanenshi's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/vanenshi"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanenshi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🌐 Learn More
+
+- 👨‍💻 Portfolio: https://vanenshi.com/
+- ✉️ Contact: vanenshi@gmail.com
+
+---
+
+### 🤝 Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/vanenshi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+<a href="https://dev.to/vanenshi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" height="30" /></a>
+<a href="https://twitter.com/vanenshi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" height="30" /></a>
+<a href="https://medium.com/vanenshi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=medium" height="30" /></a>
+</p>
